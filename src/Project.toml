@@ -1,0 +1,12 @@
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+ExcelReaders = "c04bee98-12a5-510c-87df-2a230cb6e075"
+GR = "28b8d3ca-fb5f-59d9-8090-bfdbd6d07a71"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
