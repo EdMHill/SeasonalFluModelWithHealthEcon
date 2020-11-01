@@ -1,6 +1,8 @@
 # SeasonalFluModelWithHealthEcon
 This repository houses code developed for the analysis presented in the scientific publication "Optimising age coverage of seasonal influenza vaccination in England: A mathematical and health economic evaluation" by Edward M. Hill, Stavros Petrou, Henry Forster, Simon de Lusignan, Ivelina Yonova, and Matt J. Keeling.  
 
+Publication details: Hill et al. (2020) Optimising age coverage of seasonal influenza vaccination in England: A mathematical and health economic evaluation. 16(10): e1008278. doi: 10.1371/journal.pcbi.1008278. URL: https://doi.org/10.1371/journal.pcbi.1008278.
+
 Please find below an explainer of the directory structure within this repository.  
 
 # Data
